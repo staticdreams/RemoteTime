@@ -1,5 +1,5 @@
-    ## RemoteTime
-    ### Popcorn Time remote control for iOS 7+
+#RemoteTime
+##Popcorn Time remote control for iOS 7+
 
 TODO:
 
