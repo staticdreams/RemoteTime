@@ -1,7 +1,8 @@
-## RemoteTime
-### Popcorn Time remote control for iOS 7+
+    ## RemoteTime
+    ### Popcorn Time remote control for iOS 7+
 
 TODO:
+
     1. Settings tab for configuring IP Address / port
     2. Volume control
     3. Movies / Shows switch
